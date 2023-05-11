@@ -1,5 +1,6 @@
-[logo](./assets/logo_final1.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/optiflow2023/.github/main/profile/assets/logo_final1.png">
+</p>
 
 
 <!--
