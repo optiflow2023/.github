@@ -1,4 +1,4 @@
-[logo](assets/logo_final1.png)
+[logo](./assets/logo_final1.png)
 
 
 
