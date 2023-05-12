@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/optiflow2023/.github/main/profile/assets/logo_final1.png">
+  <img src="https://raw.githubusercontent.com/optiflow2023/.github/main/profile/assets/logo_final1_sym.png">
 </p>
 
 
